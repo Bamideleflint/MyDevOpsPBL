@@ -10,6 +10,7 @@ EC2 instance is a virtual server provided by AWS. We will be creating two EC2 in
 Steps:
 1: Login to AWS console by clicking this link -->  https://aws.amazon.com/console/
 click on All services, Click on Compute -->  Click on EC2
+
 ![EC2](https://github.com/Bamideleflint/MyDevOpsPBL/assets/122679229/0247c07e-a465-4960-815c-2e10e2320509)
 
 2. Click on Launch instance
