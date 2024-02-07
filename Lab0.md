@@ -3,8 +3,8 @@
 **What is EC2 instance?** 
 An EC2 instance, in the context of cloud computing, refers to a virtual server provided by Amazon Web Services (AWS) as part of its Elastic Compute Cloud (EC2) service. EC2 instances enable users to rent virtual servers on which they can run their applications. These instances are highly scalable and customizable, allowing users to choose configurations such as CPU, memory, storage, and networking capacity based on their requirements.
 EC2 instance is a virtual server provided by AWS. We will be creating two EC2 instances:
- One EC2 instance to setup Jenkins  
- Another EC2 instance for setting up Tomcat
+- One EC2 instance to setup Jenkins  
+- Another EC2 instance for setting up Tomcat
 Steps:
 1: Login to AWS console by clicking this link -->  https://aws.amazon.com/console/
 click on All services, Click on Compute -->  Click on EC2
