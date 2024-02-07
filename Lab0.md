@@ -1,6 +1,6 @@
-Setup AWS infrastructure - Create two EC2 instances
+# **Setup AWS infrastructure - Create two EC2 instances**
 
-What is EC2 instance? 
+**What is EC2 instance?** 
 An EC2 instance, in the context of cloud computing, refers to a virtual server provided by Amazon Web Services (AWS) as part of its Elastic Compute Cloud (EC2) service. EC2 instances enable users to rent virtual servers on which they can run their applications. These instances are highly scalable and customizable, allowing users to choose configurations such as CPU, memory, storage, and networking capacity based on their requirements.
 EC2 instance is a virtual server provided by AWS. We will be creating two EC2 instances:
  One EC2 instance to setup Jenkins  
@@ -56,4 +56,4 @@ Now you should be able to view instances in AWS console. Now you can re-name as 
 ![Instances Running](https://github.com/Bamideleflint/MyDevOpsPBL/assets/122679229/a27fe9e5-3077-424d-98f8-82385c5a37b7)
 
 
-congratulations.
+## ***congratulations.***
